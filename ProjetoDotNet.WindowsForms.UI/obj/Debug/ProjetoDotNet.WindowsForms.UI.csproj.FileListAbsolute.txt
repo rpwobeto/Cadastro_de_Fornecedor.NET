@@ -1,0 +1,10 @@
+C:\Users\rpwob\source\repos\Projeto Video Aula\ProjetoDotNet.WindowsForms.UI\ProjetoDotNet.WindowsForms.UI\obj\Debug\ProjetoDotNet.WindowsForms.UI.csproj.AssemblyReference.cache
+C:\Users\rpwob\source\repos\Projeto Video Aula\ProjetoDotNet.WindowsForms.UI\ProjetoDotNet.WindowsForms.UI\obj\Debug\ProjetoDotNet.WindowsForms.UI.Properties.Resources.resources
+C:\Users\rpwob\source\repos\Projeto Video Aula\ProjetoDotNet.WindowsForms.UI\ProjetoDotNet.WindowsForms.UI\obj\Debug\ProjetoDotNet.WindowsForms.UI.lbl.resources
+C:\Users\rpwob\source\repos\Projeto Video Aula\ProjetoDotNet.WindowsForms.UI\ProjetoDotNet.WindowsForms.UI\obj\Debug\ProjetoDotNet.WindowsForms.UI.csproj.GenerateResource.cache
+C:\Users\rpwob\source\repos\Projeto Video Aula\ProjetoDotNet.WindowsForms.UI\ProjetoDotNet.WindowsForms.UI\obj\Debug\ProjetoDotNet.WindowsForms.UI.csproj.CoreCompileInputs.cache
+C:\Users\rpwob\source\repos\Projeto Video Aula\ProjetoDotNet.WindowsForms.UI\ProjetoDotNet.WindowsForms.UI\bin\Debug\ProjetoDotNet.WindowsForms.UI.exe.config
+C:\Users\rpwob\source\repos\Projeto Video Aula\ProjetoDotNet.WindowsForms.UI\ProjetoDotNet.WindowsForms.UI\bin\Debug\ProjetoDotNet.WindowsForms.UI.exe
+C:\Users\rpwob\source\repos\Projeto Video Aula\ProjetoDotNet.WindowsForms.UI\ProjetoDotNet.WindowsForms.UI\bin\Debug\ProjetoDotNet.WindowsForms.UI.pdb
+C:\Users\rpwob\source\repos\Projeto Video Aula\ProjetoDotNet.WindowsForms.UI\ProjetoDotNet.WindowsForms.UI\obj\Debug\ProjetoDotNet.WindowsForms.UI.exe
+C:\Users\rpwob\source\repos\Projeto Video Aula\ProjetoDotNet.WindowsForms.UI\ProjetoDotNet.WindowsForms.UI\obj\Debug\ProjetoDotNet.WindowsForms.UI.pdb
